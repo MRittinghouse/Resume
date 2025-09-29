@@ -34,7 +34,7 @@ Accomplished data scientist with deep expertise at the intersection of **cyberse
 
 ## Professional Experience
 
-### Salesforce – Alpharetta, GA  
+### Salesforce – Atlanta, GA  
 **Lead Cybersecurity Data Scientist** (Oct 2023 – Present)  
 
 - Designed, deployed, and maintained **threat detection and abuse models** for login anomalies, guest user misconfigurations, and overpermissive Agentforce agents, protecting customers across Salesforce Security Center, Real-Time Event Monitoring, and Shield.  
@@ -52,7 +52,7 @@ Accomplished data scientist with deep expertise at the intersection of **cyberse
 - Built a **secure AWS-based metrics environment** to unify disparate silos, delivering daily dashboards and analytics for SOC leadership.  
 - Designed and implemented **gamified workflows** (leaderboards, response metrics) that reduced **true positive threat response times by ~55%** by increasing analyst engagement and efficiency.   
 
-### Secureworks (acquired by Sophos) – Alpharetta, GA  
+### Secureworks (acquired by Sophos) – Atlanta, GA  
 **Principal Data Scientist** (Mar 2021 – Apr 2023)  
 
 - Researched, developed, and deployed **machine learning threat detection models** for network-based attack vectors, including a **Kerberoasting detector** that identified credential abuse techniques targeting domain admin accounts.  
