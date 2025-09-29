@@ -8,7 +8,7 @@
 ## Professional Summary
 
 <p align="center"><em>
-My mission is to facilitate deep dives into data, bring the results to life, and empower a data-driven culture that delivers actionable insights and measurable impact.
+Data scientist and cybersecurity innovator focused on building scalable and intelligent defenses, automation, and culture that drive measurable impact.
 </em></p>
 
 Accomplished data scientist with deep expertise at the intersection of **cybersecurity, machine learning, and large-scale analytics**, protecting mission-critical systems across finance, government, and enterprise SaaS. Proven success designing and deploying **threat detection models, fraud prevention algorithms, and security automation pipelines** that safeguard billions of events monthly and protect clients against multimillion-dollar risks. Adept at building and leading **cross-functional, data-driven teams**, with a track record of advancing **operational excellence, incident-driven response, and generative AI security initiatives**. Recognized for driving measurable impact—such as reducing false positives by 80%+, accelerating SOC response times by 55%, and enabling compliance in restricted **GovCloud environments**—while fostering innovation, mentorship, and a culture of continuous improvement.
