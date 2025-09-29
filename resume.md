@@ -17,11 +17,23 @@ Accomplished data scientist with deep expertise at the intersection of **cyberse
 
 ## Core Competencies
 
-|                           |                                   |                           |
-|---------------------------|-----------------------------------|---------------------------|
-| Applied Data Science      | Cybersecurity & Threat Detection  | Incident Response         |
-| Generative AI Security    | Generative AI Software Development| Agile SDLC Methodology    |
-| Process Orchestration & Automation | Machine Learning & Data Analytics | Data Mining          |
+<table>
+  <tr>
+    <td width="33%">Applied Data Science</td>
+    <td width="33%">Cybersecurity & Threat Detection</td>
+    <td width="33%">Incident Response</td>
+  </tr>
+  <tr>
+    <td width="33%">Generative AI Security</td>
+    <td width="33%">Generative AI Software Development</td>
+    <td width="33%">Agile SDLC Methodology</td>
+  </tr>
+  <tr>
+    <td width="33%">Process Orchestration & Automation</td>
+    <td width="33%">Machine Learning & Data Analytics</td>
+    <td width="33%">Data Mining</td>
+  </tr>
+</table>
 
 ---
 
